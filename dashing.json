@@ -1,0 +1,15 @@
+{
+    "name": "rust-cheats",
+    "package": "rust",
+    "index": "index.html",
+    "selectors": {
+        "h2": "Category",
+        "h3": "Attribute"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "icon.png",
+    "allowJS": true,
+    "ExternalURL": ""
+}
